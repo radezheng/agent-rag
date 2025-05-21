@@ -26,6 +26,10 @@
 
 - 部署Embedding服务 <br/>
 支持 text-embedding-ada-002、text-embedding-3-large、text-embedding-3-small
+
+- 如果还没有Azure OpenAI的服务，也可以在下一步构建索引时创建
+![创建Azure OpenAI服务](./res/04.createaoai.png) <br/>
+
 - [设置嵌入模型](https://learn.microsoft.com/zh-cn/azure/search/search-get-started-portal-import-vectors?tabs=sample-data-storage%2Cmodel-aoai%2Cconnect-data-storage#set-up-embedding-models)
 
 
